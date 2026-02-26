@@ -136,7 +136,7 @@ class NagadeviKona:
 | Data Analysis Stack | ✅ Unlocked |
 | Django Framework | 🌸 In Progress |
 | Full Stack Development | 🌟 Next Goal |
-| Build Something Impactful | 💜 Ultimate Dream |
+| Build Something Impactful | 💜In Progress |
 
 </div>
 
