@@ -50,6 +50,7 @@ class NagadeviKona:
 ![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=for-the-badge&logo=javascript&logoColor=8b3a6b)
 ![Python](https://img.shields.io/badge/Python-ffb7c5?style=for-the-badge&logo=python&logoColor=8b3a6b)
 ![SQL](https://img.shields.io/badge/SQL-cdb4db?style=for-the-badge&logo=mysql&logoColor=8b3a6b)
+![C++](https://img.shields.io/badge/C%2B%2B-ffc2d1?style=for-the-badge&logo=c%2B%2B&logoColor=8b3a6b)
 
 <br/>
 
