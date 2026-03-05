@@ -159,6 +159,6 @@ class NagadeviKona:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd6e0,ffb7c5,e8c4d4,cdb4db&height=120&section=footer&text=✦%20thank%20you%20for%20visiting%20✦&fontSize=16&fontColor=8b3a6b&fontAlignY=65&animation=fadeIn" />
 
-*made with 🌸 by nagadevi*
+*made🌸 by nagadevi*
 
 </div>
