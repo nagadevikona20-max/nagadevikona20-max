@@ -116,11 +116,9 @@ class NagadeviKona:
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nagadevikona20-max&show_icons=true&hide_border=true&bg_color=fff8fb&title_color=c77dff&icon_color=ff85a1&text_color=8b3a6b&ring_color=ffb7c5)](https://github.com/nagadevikona20-max)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagadevikona20-max&layout=compact&hide_border=true&bg_color=fff8fb&title_color=c77dff&text_color=8b3a6b)](https://github.com/nagadevikona20-max)
 
 <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagadevikona20-max&theme=rose&hide_border=true&background=fff8fb&ring=ffb7c5&fire=ff85a1&currStreakLabel=8b3a6b&sideNums=c77dff&sideLabels=c77dff&dates=cdb4db)](https://github.com/nagadevikona20-max)
 
 </div>
 
